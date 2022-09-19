@@ -8,7 +8,7 @@
 
 ## Description
 
-Équipé de son courage et d'un sabre laser, le joueur va devoir luter pour sa survie. Des PNJ assoiffés de sang compte bien le poursuivre et le percuter jusqu'à la mort.
+Équipé de son courage et d'un sabre laser, le joueur va devoir lutter pour sa survie. Des PNJ assoiffés de sang compte bien le poursuivre et le percuter jusqu'à la mort.
 Afin d'éviter les ennemis le joueur pourra se déplacer dans le monde virtuel grâce à des portails. 
 
 ## Intelligence artificielle
