@@ -1,6 +1,8 @@
 
 # Cahier des charges : Projet XR
 
+![Image](Image.png)
+
 ## Matériel
 
 - 1 Casque de réalité virtuelle
